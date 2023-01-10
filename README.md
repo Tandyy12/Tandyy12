@@ -7,7 +7,12 @@
 
 <div align="center">
   <a href="https://github.com/Tandyy12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tandyy12&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tandyy12&show_icons=true&theme=dark"/>
+</div>
+ 
+<div align="center">
+  <a href="https://github.com/Tandyy12">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tandyy12&show_icons=true&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
